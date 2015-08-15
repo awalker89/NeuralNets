@@ -1,2 +1,5 @@
 # NeuralNets
-Neural network from base R
+Neural network from base R.
+
+Based on:
+http://neuralnetworksanddeeplearning.com/
